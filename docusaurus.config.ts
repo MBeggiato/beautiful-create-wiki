@@ -11,10 +11,10 @@ const config: Config = {
   favicon: "img/BC.webp",
 
   // Set the production url of your site here
-  url: "https://bc.mbx.sh",
+  url: "https://mods.mbx.sh",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/",
+  baseUrl: "/beautiful-create",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
