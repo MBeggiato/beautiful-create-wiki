@@ -113,7 +113,7 @@ const config: Config = {
             },
             {
               label: "Github",
-              href: "https://example.com",
+              href: "https://github.com/MBeggiato/beautiful-create-wiki",
             },
           ],
         },
