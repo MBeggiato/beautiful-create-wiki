@@ -86,7 +86,7 @@ const config: Config = {
           position: "right",
         },
         {
-          href: "https://github.com/facebook/docusaurus",
+          href: "https://github.com/MBeggiato/beautiful-create-wiki",
           label: "GitHub",
           position: "right",
         },
