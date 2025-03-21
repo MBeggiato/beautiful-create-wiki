@@ -90,6 +90,11 @@ const config: Config = {
           label: "GitHub",
           position: "right",
         },
+        {
+          href: "https://discord.gg/ZV4GMKBP",
+          label: "Discord",
+          position: "right",
+        },
       ],
     },
     footer: {
@@ -109,7 +114,7 @@ const config: Config = {
           items: [
             {
               label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
+              href: "https://discord.gg/ZV4GMKBP",
             },
             {
               label: "Github",
